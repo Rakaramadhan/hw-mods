@@ -21,28 +21,28 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCUK00KNYiidAv6w8-SGZghA' // ubah aia
-global.ig = 'https://www.instagram.com/ff.liiyt/?hl=id' // ubah aja
-global.email = 'xddani715@gmail.com'
+global.youtube = 'https://youtube.com/@KhaTheHard' // ubah aia
+global.ig = 'https://www.instagram.com/raka.ramadhan180108' // ubah aja
+global.email = 'KhaTheHard@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Dani Maker 䄀' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'DaniBot 䄀' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Dani Maker 䄀' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'KhaTheInvisble 䄀' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '𝙆 𝙝 𝙖 𝙖-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'KhaTheInvisble 䄀' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281348106274'] // ubah aja pake nomor lu
-global.premium = ['6281348106274'] // ubah aja pake nomor lu
-global.packname = 'Dani Maker 䄀' // ubah aja
-global.ownerr = ['Dani Maker   䄀'] // ubaha aja
-global.author = 'Dani Maker 䄀' //ubah aja
-global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
+global.owner = ['62882006212045'] // ubah aja pake nomor lu
+global.premium = ['62882006212045'] // ubah aja pake nomor lu
+global.packname = 'KhaTheInvisble 䄀' // ubah aja
+global.ownerr = ['KhaTheInvisble   䄀'] // ubaha aja
+global.author = 'KhaTheInvisble 䄀' //ubah aja
+global.sessionName = './sessionye/session.json' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
 
 // Terserah
 global.mess = {
-    nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
+    nsfw: '*Awokawok sangean, chat admin grup supaya diaktifkan*_',
     wait: '*Loading... Sabar Wibu*_',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',    
